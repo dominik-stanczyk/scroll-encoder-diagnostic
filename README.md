@@ -22,7 +22,7 @@ pip install matplotlib pynput
 
 1. Run the script:
    ```bash
-   python main.py
+   python mouse_scroll_diagnostics.py
    ```
 2. Immediately start scrolling **DOWN** continuously and at a steady pace for 5 seconds.
 3. The terminal will log the acquisition window, and a diagnostic chart will automatically render.
